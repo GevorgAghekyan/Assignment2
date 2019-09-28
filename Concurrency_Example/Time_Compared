@@ -1,0 +1,9 @@
+Time_Compared
+
+Assignment2_Normal.py:  			 0.13s
+
+Assignment2_Threads.py:				 1.600s
+
+Assignment2_Process.py: 			 7.895s
+
+Assignment2_Multiprocessing.py: 	 7.552s
